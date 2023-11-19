@@ -1,0 +1,25 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 40px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 7px;
+}
+a:hover
+{
+    color: black;
+    background-color: aquamarine;
+}
+
+.menu{
+    display: flex;
+    gap: 25px;
+}
